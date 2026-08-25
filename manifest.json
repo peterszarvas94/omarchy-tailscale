@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "peti.tailscale",
+  "id": "io.github.peterszarvas94.tailscale",
   "name": "My Tailscale",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Omarchy",
   "license": "MIT",
   "description": "Tailscale status, connection switching, machine browsing, and quick copy actions in the Omarchy bar.",
